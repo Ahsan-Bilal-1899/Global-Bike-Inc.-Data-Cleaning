@@ -9,4 +9,4 @@ Kept numeric variables in only USD currency to erase confusion and make the data
 
 Removed abbreviations for the values in the Country and Division column to make the data understandable. Used the REPLACE and IF function.
 
-Used Ctrl+T to convert the data in a table format.
+Converted the data in a table format.
